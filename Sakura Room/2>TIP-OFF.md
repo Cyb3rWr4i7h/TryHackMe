@@ -19,12 +19,5 @@ inkscape:export-filename="/home/SakuraSnowAngelAiko/Desktop/pwnedletter.png"
 ```
 I found the username.
 
-## Answer
-
-<details>
-<summary>Click to see the Answer</summary>
-  
+## Answer 
 SakuraSnowAngelAiko
-
-</details>
-
