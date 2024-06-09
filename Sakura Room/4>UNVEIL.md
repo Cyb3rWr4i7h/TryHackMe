@@ -35,16 +35,16 @@ In the attacker's transaction history, we can the other cryptocurrency is Tether
 </details>
 
 <details>
-  <summarry>What is the attacker's cryptocurrency wallet address?</summarry>
+  <summary>What is the attacker's cryptocurrency wallet address?</summary>
 0xa102397dbeeBeFD8cD2F73A89122fCdB53abB6ef
 </details>
 
 <details>
-  <summarry>What mining pool did the attacker receive payments from on January 23, 2021 UTC?</summarry>
+  <summary>What mining pool did the attacker receive payments from on January 23, 2021 UTC?</summary>
 Ethermine
 </details>
 
 <details>
-  <summarry>What other cryptocurrency did the attacker exchange with using their cryptocurrency wallet?</summarry>
+  <summary>What other cryptocurrency did the attacker exchange with using their cryptocurrency wallet?</summary>
 Tether
 </details>
