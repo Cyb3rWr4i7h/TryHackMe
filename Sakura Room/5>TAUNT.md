@@ -15,5 +15,5 @@ SakuraLoverAiko
   <summary>
     What is the URL for the location where the attacker saved their WiFi  SSIDs and passwords?
   </summary>
-SakuraLoverAiko
+
 </details> 
